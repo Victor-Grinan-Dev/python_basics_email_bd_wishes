@@ -1,0 +1,16 @@
+to run the code automaticaly online every day
+head to pythonanywhere.com
+create new free account
+add all the files (not directories, those will need to be created inside the page)
+click "consoles"
+create a new "bash"
+type in the console: python3 [name of the main script].py
+
+    if you get a smtp error for loading email program is cause
+    google is blocking it.
+
+    copy the supporturl in the error notification
+    paste it in the google search
+    read the solution, give/allow access to the program.
+    type the same command in the pythonanywhere console.
+    should work!
